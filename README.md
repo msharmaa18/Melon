@@ -23,7 +23,7 @@ Melon is ideal for programmers who:
 * Appreciate the efficiency and control of C, but also desire a more readable syntax.
 * Want to build performant applications without sacrificing development speed?
 
-**Operating Melon Compiler**
+*Operating Melon Compiler*
 
 An assembler compiler with special instruction sets written in C language.
 
