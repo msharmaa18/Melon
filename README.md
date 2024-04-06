@@ -42,7 +42,6 @@ Let's write the path of the file to be tokenized in the path part. (if the file 
 ```
 source
 ```
-### SS
 ![image](https://user-images.githubusercontent.com/71611710/215190992-a55f4913-0435-4c2e-b62b-64d1ec5a3b55.png)
 &nbsp;
 
@@ -57,7 +56,6 @@ Let's write the path of the file to be compiled in the path part. (if the file i
 ```
 source2
 ```
-### SS
 ![image](https://user-images.githubusercontent.com/71611710/215195209-399bd11f-990d-43dd-b236-43a01f588435.png)
 
 &nbsp;
@@ -87,8 +85,6 @@ loop:
 	CIK DX, CX
 	SN loop
 ```
-
-### SS
 ![image](https://user-images.githubusercontent.com/71611710/215197509-30974e41-2242-403d-abf6-6bc8962fc97d.png)
 &nbsp;
 
