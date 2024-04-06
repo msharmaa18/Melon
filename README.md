@@ -92,6 +92,3 @@ loop:
 ![image](https://user-images.githubusercontent.com/71611710/215197509-30974e41-2242-403d-abf6-6bc8962fc97d.png)
 &nbsp;
 
-## Task
-> Add input and output buffers. Nice toy for those who are interested :)
-
