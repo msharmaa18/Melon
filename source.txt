@@ -1,5 +1,0 @@
-static int blankVariable;
-int main( void ){
-	printf("whats up tokenizer");
-	return 0;
-}
